@@ -1,1 +1,2 @@
-# OS-![image](https://user-images.githubusercontent.com/71543091/164988495-2b54d942-9b94-4bbd-b9fa-35d49d00bd99.png)
+# OS-<img width="450" alt="image" src="https://user-images.githubusercontent.com/71543091/164988526-db244e36-036c-456e-a214-e209857d3dd2.png">
+
